@@ -1,5 +1,11 @@
 # www-test
 
+## Browerslist
+
+```bash
+ '>0.3%,not dead,not op_mini all,not IE > 0,not samsung 4,not and_uc 12.12'
+ ```
+
 ```bash
 wget https://raw.githubusercontent.com/sambacha/www-test/master/.scss-lint.yml
 wget https://raw.githubusercontent.com/sambacha/www-test/master/.stylelint.config.js
